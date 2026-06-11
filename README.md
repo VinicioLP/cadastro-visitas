@@ -1,4 +1,4 @@
-# CadastroDeVisitas-ReactNative
+# cadastro-visitas
 
 Projeto academico em React Native/Expo com backend Laravel. A aplicacao permite cadastrar usuarios, fazer login, registrar visitas tecnicas com camera, mapa e localizacao, e sincronizar visitas pendentes quando houver conexao.
 
